@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=wizyma)](https://github.com/LordDashMe/github-contribution-stats/)
+
+## UNDER CONSTRUCTION
+
 <!--
 **Wizyma/Wizyma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
